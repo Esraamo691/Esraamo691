@@ -1,6 +1,6 @@
 <!-- Inspired by Martin Heinz README -->
 
-[![Header](https://i.postimg.cc/y8mXmMg4/Screenshot-2025-07-14-16-53-45-74-99c04817c0de5652397fc8b56c3b3817.jpg "Header")](#)
+
 
 # Hello, I'm Esraa Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
