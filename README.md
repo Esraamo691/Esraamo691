@@ -40,16 +40,13 @@ I'm always open to new opportunities and discussions in web development!**
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraamo691&hide=python,java,go,ruby,swift&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Esraamo691&show_icons=true&count_private=true&hide_title=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Esraa's GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Esraamo691" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraamo691&hide=python,java,go,ruby,swift&langs_count=4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+</a>
+
+<a href="https://github.com/Esraamo691">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esraamo691&show_icons=true&count_private=true&hide_title=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Esraa's GitHub Stats" />
+</a>
 
 
 ## 📌 Featured Projects
