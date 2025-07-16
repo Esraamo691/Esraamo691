@@ -31,8 +31,7 @@ Currently learning Next.js and TypeScript to strengthen my frontend skills, whil
 
 [![Email](https://img.shields.io/badge/Email-em148937%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:em148937@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/esraa-mohamed-955222320)
-[![GitHub](https://img.shields.io/badge/GitHub-Esraamo961-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/Esraamo961)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Esraamo691-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/Esraamo691)
 🌺✨ **Feel free to reach out for collaboration, questions, or just to connect professionally.  
 I'm always open to new opportunities and discussions in web development!**
 ---
