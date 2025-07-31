@@ -1,8 +1,13 @@
 <!-- Inspired by Martin Heinz README -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=I+am+Esraa+Mohamed;CS+Student;Frontend+Developer;Always+Learning..." />
+# Hello, I'm Esraa Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2BBC8A&center=false&vCenter=true&width=280&lines=Frontend+Developer;CS+Student" alt="Typing SVG" />
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/Esraamo691?style=flat&label=Followers&color=2bbc8a)
+![Profile views](https://komarev.com/ghpvc/?username=Esraamo691&label=Views&color=2bbc8a&style=flat)
 
 I'm a Frontend Developer focused on building responsive and user-friendly web interfaces using modern technologies like HTML, CSS, JavaScript, and React.js.  
 Currently learning Next.js and TypeScript to strengthen my frontend skills, while gradually diving into backend development with Node.js, Express.js, and MongoDB — aiming to become a full MERN stack developer through hands-on projects and real-world practice.
